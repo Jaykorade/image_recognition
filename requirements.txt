@@ -1,0 +1,7 @@
+pandas
+requests
+opencv-python
+numpy
+tensorflow
+scikit-learn
+streamlit
